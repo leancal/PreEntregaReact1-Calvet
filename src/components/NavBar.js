@@ -25,7 +25,7 @@ const NavBar = () => {
 
   return (
     <React.Fragment>
-      <AppBar sx={{ background: "#063970" }}>
+      <AppBar sx={{ background: "#2ECC71" }}>
         <Toolbar sx={{ display: "flex", justifyContent: "space-between" }}>
           <div>
             <IconButton
