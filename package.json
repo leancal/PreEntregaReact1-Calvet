@@ -1,7 +1,7 @@
 {
   "name": "ecofitwear",
   "version": "0.1.0",
-  "homepage": "https://frapinto.github.io/PreEntregaReact1-Pinto",
+  "homepage": "https://leancal.github.io/PreEntregaReact1-Calvet",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
